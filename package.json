@@ -1,0 +1,19 @@
+{
+  "name": "music-bot",
+  "main": "index.js",
+  "author": "piixish",
+  "version": "1.0.0",
+  "repository": "",
+  "description": "dev by mizuki",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord-player": "6.1",
+    "discord.js": "^14.8.0",
+    "ffmpeg-static": "^5.0.1",
+    "opusscript": "^0.0.8",
+    "prism-media": "^1.3.5",
+    "ytdl-core": "^4.11.5"
+  }
+}
